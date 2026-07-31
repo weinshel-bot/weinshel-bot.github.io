@@ -2,9 +2,9 @@
   "keys": [
     {
       "crv": "Ed25519",
-      "x": "Yh5HERZ1kF7seimm3jDPSpDkJFb00kSO1zksRzGKfzQ",
+      "x": "pGoAlIUu8RC2IfBGrtGSBBHYhuClF-8T8XZpqusul14",
       "kty": "OKP",
-      "kid": "2026-07-31_952",
+      "kid": "2026-07-31_e17",
       "alg": "EdDSA",
       "use": "sig",
       "aauth": {
