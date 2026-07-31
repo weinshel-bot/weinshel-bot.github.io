@@ -1,0 +1,6 @@
+{
+  "issuer": "https://weinshel-bot.github.io",
+  "jwks_uri": "https://weinshel-bot.github.io/.well-known/jwks.json",
+  "client_name": "weinshel-bot",
+  "logo_uri": "https://avatars.githubusercontent.com/u/309577546?v=4"
+}
